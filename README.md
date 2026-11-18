@@ -2,6 +2,9 @@
 
 A GitHub integration panel.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [github-panel](https://github.com/lumine-code/github-panel).
+
 Fork of [github](https://github.com/pulsar-edit/github), but GitHub-specific features only (PRs, reviews, issues).
 
 ## Features
